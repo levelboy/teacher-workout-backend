@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeacherWorkout.Data", "Teac
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeacherWorkout.Tests", "TeacherWorkout.Tests\TeacherWorkout.Tests.csproj", "{B4739FDC-C7FB-4DE4-B207-FF40B435A8F5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeacherWorkout.Api.Tests", "TeacherWorkout.Api.Tests\TeacherWorkout.Api.Tests.csproj", "{B4739FDC-C7FB-4DE4-B207-FF40B435A8F5}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
