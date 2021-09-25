@@ -8,4 +8,8 @@
     <ProjectReference Include="..\TeacherWorkout.Domain\TeacherWorkout.Domain.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Relational" Version="5.0.8" />
+  </ItemGroup>
+
 </Project>
